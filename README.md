@@ -1,0 +1,67 @@
+- 構建: complete
+  - 創建應用: complete
+  - 聊天助手: complete
+  - Agent: complete
+  - 應用工具箱: complete
+    - 敏感內容審查: complete
+- 工作流: complete
+  - 關鍵概念: complete
+  - 節點說明: complete
+    - 開始: complete
+    - 結束: complete
+    - 直接回覆: complete
+    - LLM: complete
+    - 知識檢索: complete
+    - 問題分類: complete
+    - 條件分支: complete
+    - 代碼執行: complete
+    - 模板轉換: complete
+    - 變量聚合: complete
+    - 迭代: complete
+    - 參數提取: complete
+    - HTTP 請求: complete
+    - 工具: complete
+- 知識庫: not complete
+  - 建立知識庫&上傳文檔: not complete
+  - 知識庫及文件維護: not complete
+  - 在應用程式內整合知識庫: not complete
+  - 召回測試/引用歸屬: not complete
+  - 從Notion 匯入數據: not complete
+  - 從網頁匯入數據: not complete
+  - 透過API 維護知識庫: not complete
+  - 外部資料工具: not complete
+- 工具: not complete
+  - 快速存取工具: not complete
+  - 進階存取工具: not complete
+  - 工具配置: not complete
+    - StableDiffusion: not complete
+    - SearXNG: not complete
+- 發布: not complete
+  - 發佈為公開Web 站點: not complete
+    - Web 應用程式的設定: not complete
+    - 文字生成型應用: not complete
+    - 對話型應用: not complete
+  - 嵌入網站: not complete
+  - 基於APIs 開發: not complete
+  - 基於前端組件再開發: not complete
+- 標註: not complete
+  - 日誌與標註: not complete
+  - 標註回复: not complete
+- 監測: not complete
+  - 整合外部Ops 工具: not complete
+    - 集成LangSmith: not complete
+    - 整合Langfuse: not complete
+  - 數據分析: not complete
+- 擴展: not complete
+  - API 擴充: not complete
+    - 外部資料工具: not complete
+    - 使用Cloudflare Workers 部署API Tools: not complete
+    - 敏感內容審查: not complete
+  - 程式碼擴充: not complete
+    - 外部資料工具: not complete
+    - 敏感內容審查: not complete
+- 協同: not complete
+  - 發現: not complete
+  - 邀請與管理成員: not complete
+- 管理: not complete
+  - 管理應用: not complete

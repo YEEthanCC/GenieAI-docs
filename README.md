@@ -52,9 +52,9 @@
   - 嵌入網站: complete
   - 基於APIs 開發: complete
   - 基於前端組件再開發: complete
-- 標註: not complete
-  - 日誌與標註: not complete
-  - 標註回复: not complete
+- 標註: complete
+  - 日誌與標註: complete
+  - 標註回复: complete
 - 監測: not complete
   - 整合外部Ops 工具: not complete
     - 集成LangSmith: not complete

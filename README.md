@@ -21,6 +21,14 @@
     - 參數提取: complete
     - HTTP 請求: complete
     - 工具: complete
+  - 預覽與調試: complete
+    - 單步除錯: complete
+    - 對話運行日誌: complete
+    - 檢查清單: complete
+    - 運行歷史: complete
+    - 預覽與運行: complete
+  - 工作流程: complete
+  - 應用程式發布: complete
 - 知識庫: not complete
   - 建立知識庫&上傳文檔: complete
   - 知識庫及文件維護: not complete

@@ -22,7 +22,7 @@
     - HTTP 請求: complete
     - 工具: complete
 - 知識庫: not complete
-  - 建立知識庫&上傳文檔: not complete
+  - 建立知識庫&上傳文檔: complete
   - 知識庫及文件維護: not complete
   - 在應用程式內整合知識庫: not complete
   - 召回測試/引用歸屬: not complete
@@ -30,20 +30,20 @@
   - 從網頁匯入數據: not complete
   - 透過API 維護知識庫: not complete
   - 外部資料工具: not complete
-- 工具: not complete
-  - 快速存取工具: not complete
-  - 進階存取工具: not complete
-  - 工具配置: not complete
-    - StableDiffusion: not complete
-    - SearXNG: not complete
-- 發布: not complete
-  - 發佈為公開Web 站點: not complete
-    - Web 應用程式的設定: not complete
-    - 文字生成型應用: not complete
-    - 對話型應用: not complete
-  - 嵌入網站: not complete
-  - 基於APIs 開發: not complete
-  - 基於前端組件再開發: not complete
+- 工具: complete
+  - 快速存取工具: skip
+  - 進階存取工具: skip
+  - 工具配置: skip
+    - StableDiffusion: skip
+    - SearXNG: skip
+- 發布: complete
+  - 發佈為公開Web 站點: complete
+    - Web 應用程式的設定: complete
+    - 文字生成型應用: complete
+    - 對話型應用: complete
+  - 嵌入網站: complete
+  - 基於APIs 開發: complete
+  - 基於前端組件再開發: complete
 - 標註: not complete
   - 日誌與標註: not complete
   - 標註回复: not complete

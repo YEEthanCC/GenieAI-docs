@@ -1,75 +1,75 @@
 - 構建: complete
-  - 創建應用: complete
-  - 聊天助手: complete
-  - Agent: complete
-  - 應用工具箱: complete
-    - 敏感內容審查: complete
-- 工作流: complete
-  - 關鍵概念: complete
-  - 節點說明: complete
-    - 開始: complete
-    - 結束: complete
-    - 直接回覆: complete
-    - LLM: complete
-    - 知識檢索: complete
-    - 問題分類: complete
-    - 條件分支: complete
-    - 代碼執行: complete
-    - 模板轉換: complete
-    - 變量聚合: complete
-    - 迭代: complete
-    - 參數提取: complete
-    - HTTP 請求: complete
-    - 工具: complete
-  - 預覽與調試: complete
-    - 單步除錯: complete
-    - 對話運行日誌: complete
-    - 檢查清單: complete
-    - 運行歷史: complete
-    - 預覽與運行: complete
-  - 工作流程: complete
-  - 應用程式發布: complete
-- 知識庫: not complete
-  - 建立知識庫&上傳文檔: complete
-  - 知識庫及文件維護: not complete
-  - 在應用程式內整合知識庫: not complete
-  - 召回測試/引用歸屬: not complete
-  - 從Notion 匯入數據: not complete
-  - 從網頁匯入數據: not complete
-  - 透過API 維護知識庫: not complete
-  - 外部資料工具: not complete
-- 工具: complete
+  - 創建應用: done
+  - 聊天助手: done
+  - Agent: done
+  - 應用工具箱: done
+    - 敏感內容審查: done
+- 工作流: done
+  - 關鍵概念: done
+  - 節點說明: done
+    - 開始: done
+    - 結束: done
+    - 直接回覆: done
+    - LLM: done
+    - 知識檢索: done
+    - 問題分類: done
+    - 條件分支: done
+    - 代碼執行: done
+    - 模板轉換: done
+    - 變量聚合: done
+    - 迭代: done
+    - 參數提取: done
+    - HTTP 請求: done
+    - 工具: done
+  - 預覽與調試: done
+    - 單步除錯: done
+    - 對話運行日誌: done
+    - 檢查清單: done
+    - 運行歷史: done
+    - 預覽與運行: done
+  - 工作流程: done
+  - 應用程式發布: done
+- 知識庫: done
+  - 建立知識庫&上傳文檔: done
+  - 知識庫及文件維護: done
+  - 在應用程式內整合知識庫: done
+  - 召回測試/引用歸屬: done
+  - 從Notion 匯入數據: skip
+  - 從網頁匯入數據: done
+  - 透過API 維護知識庫: done
+  - 外部資料工具: done
+- 工具: done
   - 快速存取工具: skip
   - 進階存取工具: skip
   - 工具配置: skip
     - StableDiffusion: skip
     - SearXNG: skip
-- 發布: complete
-  - 發佈為公開Web 站點: complete
-    - Web 應用程式的設定: complete
-    - 文字生成型應用: complete
-    - 對話型應用: complete
-  - 嵌入網站: complete
-  - 基於APIs 開發: complete
-  - 基於前端組件再開發: complete
-- 標註: complete
-  - 日誌與標註: complete
-  - 標註回复: complete
-- 監測: not complete
-  - 整合外部Ops 工具: not complete
-    - 集成LangSmith: not complete
-    - 整合Langfuse: not complete
-  - 數據分析: not complete
-- 擴展: not complete
-  - API 擴充: not complete
-    - 外部資料工具: not complete
-    - 使用Cloudflare Workers 部署API Tools: not complete
-    - 敏感內容審查: not complete
-  - 程式碼擴充: not complete
-    - 外部資料工具: not complete
-    - 敏感內容審查: not complete
-- 協同: not complete
-  - 發現: not complete
-  - 邀請與管理成員: not complete
-- 管理: not complete
-  - 管理應用: not complete
+- 發布: done
+  - 發佈為公開Web 站點: done
+    - Web 應用程式的設定: done
+    - 文字生成型應用: done
+    - 對話型應用: done
+  - 嵌入網站: done
+  - 基於APIs 開發: done
+  - 基於前端組件再開發: done
+- 標註: done
+  - 日誌與標註: done
+  - 標註回复: done
+- 監測: incomplete
+  - 整合外部Ops 工具: done
+    - 集成LangSmith: incomplete
+    - 整合Langfuse: incomplete
+  - 數據分析: incomplete
+- 擴展: incomplete
+  - API 擴充: incomplete
+    - 外部資料工具: incomplete
+    - 使用Cloudflare Workers 部署API Tools: incomplete
+    - 敏感內容審查: incomplete
+  - 程式碼擴充: incomplete
+    - 外部資料工具: incomplete
+    - 敏感內容審查: incomplete
+- 協同: incomplete
+  - 發現: incomplete
+  - 邀請與管理成員: incomplete
+- 管理: incomplete
+  - 管理應用: incomplete

@@ -58,8 +58,8 @@
 - 監測: incomplete
   - 整合外部Ops 工具: done
     - 集成LangSmith: incomplete
-    - 整合Langfuse: incomplete
-  - 數據分析: incomplete
+    - 整合Langfuse: done
+  - 數據分析: done
 - 擴展: incomplete
   - API 擴充: incomplete
     - 外部資料工具: incomplete

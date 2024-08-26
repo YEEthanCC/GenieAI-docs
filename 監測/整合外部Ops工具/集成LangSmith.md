@@ -40,5 +40,6 @@ LangSmith 官網介紹：[https://www.langchain.com/langsmith](https://www.langc
     ![配置LangSmith](/監測/整合外部Ops工具/images/配置LangSmith.png)
 
     點擊配置後，將在LangSmith 內建立的API Key和項目名稱貼上到配置內並儲存。
-
+    
+    ![編輯Langfuse項目名稱](/監測/整合外部Ops工具/images/編輯Langfuse項目名稱.png)
     

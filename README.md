@@ -68,8 +68,8 @@
   - 程式碼擴充: incomplete
     - 外部資料工具: incomplete
     - 敏感內容審查: incomplete
-- 協同: incomplete
-  - 發現: incomplete
-  - 邀請與管理成員: incomplete
-- 管理: incomplete
-  - 管理應用: incomplete
+- 協同: done
+  - 發現: done
+  - 邀請與管理成員: done
+- 管理: done
+  - 管理應用: done

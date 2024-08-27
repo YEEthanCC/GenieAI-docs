@@ -65,9 +65,9 @@
     - 外部資料工具: incomplete
     - 使用Cloudflare Workers 部署API Tools: incomplete
     - 敏感內容審查: done
-  - 程式碼擴充: incomplete
-    - 外部資料工具: incomplete
-    - 敏感內容審查: incomplete
+  - 程式碼擴充: done
+    - 外部資料工具: done
+    - 敏感內容審查: done
 - 協同: done
   - 發現: done
   - 邀請與管理成員: done

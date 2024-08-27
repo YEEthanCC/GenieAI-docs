@@ -60,10 +60,10 @@
     - 集成LangSmith: incomplete
     - 整合Langfuse: done
   - 數據分析: done
-- 擴展: incomplete
-  - API 擴充: incomplete
-    - 外部資料工具: incomplete
-    - 使用Cloudflare Workers 部署API Tools: incomplete
+- 擴展: done
+  - API 擴充: skip
+    - 外部資料工具: skip
+    - 使用Cloudflare Workers 部署API Tools: skip
     - 敏感內容審查: done
   - 程式碼擴充: done
     - 外部資料工具: done

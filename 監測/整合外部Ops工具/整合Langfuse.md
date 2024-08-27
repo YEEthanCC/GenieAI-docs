@@ -6,7 +6,7 @@ Langfuse 官網介紹：[https://langfuse.com/](https://langfuse.com/)
 
 ## 2 如何配置Langfuse
 1. 在[官網註冊](https://langfuse.com/)並登入Langfuse
-2. 在Langfuse 內建立項目，登入後在主頁點擊New project，建立自己的項目，項目將用於與GenieAI 內的應用程式關聯進行資料監測。
+2. 在Langfuse 內建立項目，登入後在主頁點擊New project，建立自己的項目，項目將用於與AgentBuilder 內的應用程式關聯進行資料監測。
 
 ![在Langfuse內建立項目](/監測/整合外部Ops工具/images/在Langfuse內建立項目.png)
 
@@ -26,7 +26,7 @@ Langfuse 官網介紹：[https://langfuse.com/](https://langfuse.com/)
 
 ![get_api_key](/監測/整合外部Ops工具/images/get_api_key.png)
 
-4. 在GenieAI 內設定Langfuse，開啟需要監測的應用，在側邊選單開啟監測，在頁面中選擇設定。
+4. 在AgentBuilder 內設定Langfuse，開啟需要監測的應用，在側邊選單開啟監測，在頁面中選擇設定。
 
 ![配置Langfuse](/監測/整合外部Ops工具/images/配置Langfuse.png)
 
@@ -35,7 +35,7 @@ Langfuse 官網介紹：[https://langfuse.com/](https://langfuse.com/)
 ![查看配置狀態](/監測/整合外部Ops工具/images/查看配置狀態.png)
 
 ## 3 在Langfuse 內查看監測數據
-配置完成後， GenieAI 內應用的調試或生產數據可以在Langfuse 查看監測數據。
+配置完成後， AgentBuilder 內應用的調試或生產數據可以在Langfuse 查看監測數據。
 
 ![在Genie內調試應用](/監測/整合外部Ops工具/images/在Genie內調試應用.png)
 

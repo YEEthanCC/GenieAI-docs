@@ -1,5 +1,5 @@
 # 發佈為公開Web 站點發佈為公開Web 站點
-使用GenieAI 創建AI 應用的一個好處在於，你可以在幾分鐘內就發布一個可供用戶在互聯網上公開訪問的Web 應用，該應用將根據你的Prompt 和編排設定進行工作。
+使用AgentBuilder 創建AI 應用的一個好處在於，你可以在幾分鐘內就發布一個可供用戶在互聯網上公開訪問的Web 應用，該應用將根據你的Prompt 和編排設定進行工作。
 - 如果你使用的是自部署的開源版，該應用程式將會運行在你的伺服器上
 - 如果你使用的是雲端服務，該應用程式將託管至網址[https://portal-chatbase-chatbase-ensaas.dev003.wise-paas.com](https://portal-chatbase-chatbase-ensaas.dev003.wise-paas.com)
 

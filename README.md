@@ -64,7 +64,7 @@
   - API 擴充: incomplete
     - 外部資料工具: incomplete
     - 使用Cloudflare Workers 部署API Tools: incomplete
-    - 敏感內容審查: incomplete
+    - 敏感內容審查: done
   - 程式碼擴充: incomplete
     - 外部資料工具: incomplete
     - 敏感內容審查: incomplete

@@ -6,14 +6,14 @@
 
 - ```external_data_tool```外部資料工具
 
-在擴充模組能力之前，您需要準備一個API 和用於鑑權的API Key（也可由Dify 自動生成，可選）。
+在擴充模組能力之前，您需要準備一個API 和用於鑑權的API Key（也可由AgentBuilder 自動生成，可選）。
 
-除了需要開發對應的模組能力，還需要遵守以下規範，以便Dify 可以正確地呼叫API。
+除了需要開發對應的模組能力，還需要遵守以下規範，以便AgentBuilder 可以正確地呼叫API。
 
 ![基於API擴充](/擴充/images/基於API擴充.png)
 
 ## API 規格
-Dify 將會以以下規格呼叫您的介面：
+AgentBuilder 將會以以下規格呼叫您的介面：
 ```
 POST {Your-API-Endpoint}
 ```
@@ -45,7 +45,7 @@ POST {Your-API-Endpoint}
 ```
 
 ## 校驗
-當Dify 設定API-based Extension 時，Dify 將會發送一個請求至API Endpoint，以檢驗API 的可用性。
+當AgentBuilder 設定API-based Extension 時，AgentBuilder 將會發送一個請求至API Endpoint，以檢驗API 的可用性。
 
 當API Endpoint 接收到point=ping時，介面應傳回result=pong，如下：
 
@@ -140,7 +140,7 @@ Authorization: Bearer 123456
     @app.post("/api/dify/receive")
     async def dify_receive(data: InputData = Body(...), authorization: str = Header(None)):
         """
-        Receive API query data from Dify.
+        Receive API query data from AgentBuilder.
         """
         expected_api_key = "123456"  # TODO Your API key of this API
         auth_scheme, _, api_key = authorization.partition(' ')
@@ -194,7 +194,7 @@ Authorization: Bearer 123456
     uvicorn main:app --reload --host 0.0.0.0
     ```
 
-4. 在Dify 設定該API。
+4. 在AgentBuilder 設定該API。
 
     ![基於API擴充](/擴充/images/基於API擴充.png)
 

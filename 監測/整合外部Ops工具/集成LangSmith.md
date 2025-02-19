@@ -4,12 +4,12 @@
 LangSmith 官網介紹：[https://www.langchain.com/langsmith](https://www.langchain.com/langsmith)
 
 ## 如何配置LangSmith
-本章節將指引你註冊LangSmith 並將其整合至Dify 平台內。
+本章節將指引你註冊LangSmith 並將其整合至AgentBuilder 平台內。
 
 1. **註冊/登入**[LangSmith](https://www.langchain.com/langsmith)
 2. **建立項目**
 
-    在LangSmith 內建立項目，登入後在主頁點擊New Project建立一個自己的項目，項目將用於與Dify 內的應用關聯進行資料監測。
+    在LangSmith 內建立項目，登入後在主頁點擊New Project建立一個自己的項目，項目將用於與AgentBuilder 內的應用關聯進行資料監測。
 
     ![在LangSmith內建立項目](/監測/整合外部Ops工具/images/在LangSmith內建立項目.png)
 
@@ -33,9 +33,9 @@ LangSmith 官網介紹：[https://www.langchain.com/langsmith](https://www.langc
 
     將建立的API key 複製保存。
 
-4. **將LangSmith 整合至Dify 平台**
+4. **將LangSmith 整合至AgentBuilder 平台**
 
-    在Dify 應用程式內配置LangSmith。開啟需要監測的應用，在左側邊選單內開啟**監測**，點選頁面內的**設定**。
+    在AgentBuilder 應用程式內配置LangSmith。開啟需要監測的應用，在左側邊選單內開啟**監測**，點選頁面內的**設定**。
 
     ![配置LangSmith](/監測/整合外部Ops工具/images/配置LangSmith.png)
 
